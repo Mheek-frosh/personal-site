@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className="flex items-center justify-between px-10 md:px-24 py-12 text-[18px] font-medium">
       <div>
-        <Link href="/">Tega Okorare</Link>
+        <Link href="/">Michael Usidamen</Link>
       </div>
       <div className="flex space-x-1 hover:text-[#ACA0E8] transition cursor-pointer">
         <Image src="/download.svg" alt="download" width={24} height={24} />
