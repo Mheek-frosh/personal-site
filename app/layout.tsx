@@ -8,8 +8,8 @@ import Providers from "./providers";
 const font = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Tega Okorare",
-  description: "Software Engineer based in Nigeria",
+  title: "Michael Usidamen",
+  description: "Mobile Engineer based in Nigeria",
 };
 
 export default function RootLayout({
