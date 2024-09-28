@@ -10,14 +10,14 @@ const About = () => {
         <div
           className="bg-cover min-h-[330px] sma:min-h-[420px] md:min-h-[500px]"
           style={{
-            backgroundImage: "url('./assets/tega.jpg')",
+            backgroundImage: "url('./assets/me.jpg')",
           }}
         ></div>
         <div className="space-y-10">
           <div className="text-[26px] lg:text-[44px] font-normal lg:leading-[51.9px]">
-            <span className="text-[#ACA0E8]">Hello!</span> My name is Michael
-            Usidamen, a developer with a focus on building scalable and
-            accessible web experiences and products.
+            <span className="text-[#ACA0E8]">Hello!</span> My name is Michael Ozeluah
+            Usidamen, a frontend mobile developer with a focus on building scalable and
+            accessible mobile experiences and products.
           </div>
           <div className="text-[18px] font-normal">
             Currently based somewhere on earth, I&apos;ve had the privilege of
