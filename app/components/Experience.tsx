@@ -4,32 +4,33 @@ import Accordion from "./Accordion";
 
 const workPlaces = [
   {
-    company: "Rooks",
-    role: "Full-Stack Developer",
-    timeFrame: "2022 - Current",
+    company: "Afretrade",
+    role: "Frontend Mobile Developer",
+    timeFrame: "2024 - Current",
     work: [
-      "Developed responsive e-commerce platform with over 200 users",
+      "Developed responsive Mobile e-commerce platform with over 200 users",
       "Integrated secure payment gateway for seamless and secure payments",
-      "Implemented robust error handling for third-party APIs",
+      "Implemented robust error handling for third-party APIs, ensuring a smooth user experience during temporary outages",
     ],
   },
   {
-    company: "Nigeria LNG",
-    role: "Digital Innovation Intern",
-    timeFrame: "2022",
+    company: "SRM Solutions",
+    role: "Graphics  designer",
+    timeFrame: "2023",
     work: [
-      "Developed user interface for a new internal project management tool.",
-      "Participated in code reviews and provided feedback to other developers.",
-      "Streamlined analysis processes by migrating critical calculations from Excel to Python.",
+      "Part of the team Designing Company profile",
+      "Participated in reviews and provided feedback to other team members to help improve design quality and maintainability.",
+      "Streamlined analysis processes by critical  & strategic documentations from Excel/Powerpoint  to other enhanced efficiency and flexibility.",
     ],
   },
   {
-    company: "I.S.T.H",
-    role: "Technical Support",
-    timeFrame: "2020 - 2022",
+    company: "Nigerian Breweries",
+    role: "IT Support Officer",
+    timeFrame: "2019 - 2022",
     work: [
+      "System upgrade, and technical support for members of all staffs.",
+      "Performed website updates and maintenance, contributing to an up-to-date presence for the organization.",
       "Offered network troubleshooting assistance to staff members, ensuring minimal disruptions in daily operations.",
-      "Performed website updates and maintenance, contributing to an up-to-date and user-friendly online presence for the organization.",
     ],
   },
 
