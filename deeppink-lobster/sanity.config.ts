@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'deeppink-lobster',
 
-  projectId: 'cv1zk67h',
+  projectId: 'cv1zk67',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
