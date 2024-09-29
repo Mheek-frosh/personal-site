@@ -10,7 +10,7 @@ const About = () => {
         <div
           className="bg-cover min-h-[330px] sma:min-h-[420px] md:min-h-[500px]"
           style={{
-            backgroundImage: "url('./assets/me.JPG')",
+            backgroundImage: "url('./assets/up.JPG')",
           }}
         ></div>
         <div className="space-y-10">
@@ -29,7 +29,7 @@ const About = () => {
           <div className="text-[18px] font-normal">
             On the side I do enjoy building small and large personal projects as
             a chance to learn new technologies and break things. When I&apos;m
-            not building or trying to break things It&apos;s either moives,
+            not building or trying to break things It&apos;s either movies,
             books or music like most other people, I think.
           </div>
         </div>
