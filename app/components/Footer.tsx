@@ -42,8 +42,8 @@ const Footer = () => {
         {/* Email button */}
         <div className="flex flex-col items-center space-y-3">
           <button className="flex space-x-2 items-center rounded-3xl px-[16px] py-[12px] text-[18px] font-semibold transition">
-            <a href="mailto:contact@tegacreatives.com">
-              contact@tegacreatives.com
+            <a href="m.usidamen@gmail.com">
+              m.usidamen@gmail.com
             </a>
           </button>
           <div className="text-[14px] font-normal">
