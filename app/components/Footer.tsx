@@ -6,11 +6,11 @@ import Image from "next/image";
 const socials = [
   {
     title: "Github",
-    socialUrl: "https://github.com/Tegacreatives",
+    socialUrl: "https://github.com/",
   },
   {
     title: "Linkedin",
-    socialUrl: "https://www.linkedin.com/in/okorare-tega-36008520b/",
+    socialUrl: "https://ng.linkedin.com/in/michael-usidamen-2416391bb/",
   },
   // {
   //   title: "Twitter",

@@ -2,9 +2,9 @@ import React from "react";
 import Title from "./common/Title";
 
 const skills = [
-  "JavaScript (ES6+)",
-  "TypeScript",
-  "React",
+  "Flutter",
+  "Dart",
+  "React Native",
   "Next.js",
   "Node.js",
   "PostgreSQL",
@@ -12,6 +12,7 @@ const skills = [
   "TailwindCss",
   "API Testing",
   "Learning Go",
+  "Firebase",
 ];
 
 const Skills = () => {
