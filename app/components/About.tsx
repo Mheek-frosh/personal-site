@@ -10,7 +10,7 @@ const About = () => {
         <div
           className="bg-cover min-h-[330px] sma:min-h-[420px] md:min-h-[500px]"
           style={{
-            backgroundImage: "url('./assets/me.jpg')",
+            backgroundImage: "url('./assets/me.JPG')",
           }}
         ></div>
         <div className="space-y-10">
