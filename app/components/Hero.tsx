@@ -10,7 +10,7 @@ const Hero = () => {
         {/* Title */}
         <div className="text-center text-[38px] sm:text-[43px] md:text-[88px] leading-[44px] md:leading-[85px] lg:leading-[94px] font-normal">
           <h1>Michael Usidamen</h1>
-          <h1 className="secondary-text">Mobile Engineer</h1>
+          <h1 className="secondary-text">Mobile/Web Engineer</h1>
         </div>
         {/* Info */}
         <div className="text-center font-normal text-[18px]">
