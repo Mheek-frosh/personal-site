@@ -5,7 +5,7 @@ import Accordion from "./Accordion";
 const workPlaces = [
   {
     company: "Afretrade",
-    role: "Frontend Mobile/Web Developer",
+    role: "Frontend Mobile Developer",
     timeFrame: "2024 - Current",
     work: [
       "Developed responsive Mobile e-commerce platform with over 200 users",
