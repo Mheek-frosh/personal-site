@@ -5,13 +5,7 @@ const skills = [
   "Flutter",
   "Dart",
   "React Native",
-  "Next.js",
-  "Node.js",
-  "PostgreSQL",
-  "Cypress",
-  "TailwindCss",
   "API Testing",
-  "Learning Go",
   "Firebase",
 ];
 
