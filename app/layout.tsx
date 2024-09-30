@@ -9,7 +9,7 @@ const font = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Michael Usidamen",
-  description: "Mobile Engineer based in Nigeria",
+  description: "Mobile/Web Engineer based in Nigeria",
 };
 
 export default function RootLayout({
