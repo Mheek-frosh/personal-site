@@ -16,7 +16,7 @@ const About = () => {
         <div className="space-y-10">
           <div className="text-[26px] lg:text-[44px] font-normal lg:leading-[51.9px]">
             <span className="text-[#ACA0E8]">Hello!</span> My name is Michael Ozeluah
-            Usidamen, a frontend mobile developer with a focus on building scalable and
+            Usidamen, a frontend mobile/web developer with  focus on building scalable and
             accessible mobile experiences and products.
           </div>
           <div className="text-[18px] font-normal">
